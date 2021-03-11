@@ -222,7 +222,7 @@ p {
 
 /* Hero Section */
 #ji10 {
-	background-image: url(./img/hero-bg1.png);
+	background-image: url(./img/ji10-bg1.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -239,7 +239,7 @@ p {
 	opacity: .7;
 	z-index: -1;
 }
-#ji10 .hero {
+#ji10 .ji10 {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 0 50px;
@@ -284,7 +284,7 @@ p {
 	animation-delay: 2.5s;
 }
 
-/* End Hero Section */
+/* End ji10 Section */
 
 /* Services Section */
 #services .services {
